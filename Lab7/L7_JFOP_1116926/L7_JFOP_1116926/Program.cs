@@ -5,10 +5,16 @@ class Program
     static void Main()
     {
 
+        // Entrada
+        Console.Write("Ingrese su nombre: ");
+        string nombre = Console.ReadLine();
 
-        // PARTE 1: Suma controlada por contador (WHILE)
+        // Proceso + Salida
+        Console.WriteLine("Hola, " + nombre + ". ¡Bienvenido/a al Laboratorio 7!");
 
-        Console.WriteLine("EJERCICIO 1");
+               // PARTE 1: Suma controlada por contador (WHILE)
+
+               Console.WriteLine("EJERCICIO 1");
 
         int n = 0;
 

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferna\\OneDrive\\Documentos\\Laboratorios\\Lab7\\L7_JFOP_1116926\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E89A4E14-505B-49E4-9136-BCF9E9974ECB}|L7_JFOP_1116926\\L7_JFOP_1116926.csproj|c:\\users\\ferna\\onedrive\\documentos\\laboratorios\\lab7\\l7_jfop_1116926\\l7_jfop_1116926\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89A4E14-505B-49E4-9136-BCF9E9974ECB}|L7_JFOP_1116926\\L7_JFOP_1116926.csproj|solutionrelative:l7_jfop_1116926\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Documentos\\Laboratorios\\Lab7\\L7_JFOP_1116926\\L7_JFOP_1116926\\Program.cs",
+              "RelativeDocumentMoniker": "L7_JFOP_1116926\\Program.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Documentos\\Laboratorios\\Lab7\\L7_JFOP_1116926\\L7_JFOP_1116926\\Program.cs",
+              "RelativeToolTip": "L7_JFOP_1116926\\Program.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAgwLAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T21:43:22.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

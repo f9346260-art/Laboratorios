@@ -1,0 +1,7 @@
+C:\Users\ferna\OneDrive\Documentos\Laboratorios\Proyecto 1-b\proyecto 1-b\proyecto 1-b\bin\Debug\proyecto 1-b.exe.config
+C:\Users\ferna\OneDrive\Documentos\Laboratorios\Proyecto 1-b\proyecto 1-b\proyecto 1-b\bin\Debug\proyecto 1-b.exe
+C:\Users\ferna\OneDrive\Documentos\Laboratorios\Proyecto 1-b\proyecto 1-b\proyecto 1-b\bin\Debug\proyecto 1-b.pdb
+C:\Users\ferna\OneDrive\Documentos\Laboratorios\Proyecto 1-b\proyecto 1-b\proyecto 1-b\obj\Debug\proyecto 1-b.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documentos\Laboratorios\Proyecto 1-b\proyecto 1-b\proyecto 1-b\obj\Debug\proyecto 1-b.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documentos\Laboratorios\Proyecto 1-b\proyecto 1-b\proyecto 1-b\obj\Debug\proyecto 1-b.exe
+C:\Users\ferna\OneDrive\Documentos\Laboratorios\Proyecto 1-b\proyecto 1-b\proyecto 1-b\obj\Debug\proyecto 1-b.pdb

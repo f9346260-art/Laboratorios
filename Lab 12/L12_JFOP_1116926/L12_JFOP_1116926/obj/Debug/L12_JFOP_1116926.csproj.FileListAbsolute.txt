@@ -1,0 +1,7 @@
+C:\Users\ferna\OneDrive\Documentos\Laboratorios\Lab 12\L12_JFOP_1116926\L12_JFOP_1116926\bin\Debug\L12_JFOP_1116926.exe.config
+C:\Users\ferna\OneDrive\Documentos\Laboratorios\Lab 12\L12_JFOP_1116926\L12_JFOP_1116926\bin\Debug\L12_JFOP_1116926.exe
+C:\Users\ferna\OneDrive\Documentos\Laboratorios\Lab 12\L12_JFOP_1116926\L12_JFOP_1116926\bin\Debug\L12_JFOP_1116926.pdb
+C:\Users\ferna\OneDrive\Documentos\Laboratorios\Lab 12\L12_JFOP_1116926\L12_JFOP_1116926\obj\Debug\L12_JFOP_1116926.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documentos\Laboratorios\Lab 12\L12_JFOP_1116926\L12_JFOP_1116926\obj\Debug\L12_JFOP_1116926.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documentos\Laboratorios\Lab 12\L12_JFOP_1116926\L12_JFOP_1116926\obj\Debug\L12_JFOP_1116926.exe
+C:\Users\ferna\OneDrive\Documentos\Laboratorios\Lab 12\L12_JFOP_1116926\L12_JFOP_1116926\obj\Debug\L12_JFOP_1116926.pdb
